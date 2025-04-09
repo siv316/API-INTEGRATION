@@ -42,3 +42,7 @@ HTML: Provides the structure of the page, including input, button, and output di
 CSS: Styles the page to make it visually appealing, with a centered card-like container and responsive adjustments.
 
 JavaScript: Handles the logic for fetching weather data from the API, error handling, and dynamically updating the DOM with the retrieved data.
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/ce8dc7de-ac0d-4809-b7a9-f5960b5ddc95)
